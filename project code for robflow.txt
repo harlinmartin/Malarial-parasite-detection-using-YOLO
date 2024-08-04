@@ -1,0 +1,4 @@
+parasite-rocqz
+parasite-detection-x5vzb
+https://universe.roboflow.com/h-fuaai/parasite-rocqz
+https://universe.roboflow.com/parasite2/parasite-detection-x5vzb
